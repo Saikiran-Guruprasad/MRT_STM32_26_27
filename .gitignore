@@ -1,0 +1,19 @@
+# Build folders
+Debug/
+Release/
+build/
+
+# Object and dependency files
+*.o
+*.d
+*.su
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE specific files
+.settings/
+.project
+.cproject
+*.launch
